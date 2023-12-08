@@ -11,6 +11,7 @@ Note that not all of these methods will work for every window, so please use whi
 RBTray is free, open source, and is distributed under the terms of the [GNU General Public Licence](http://www.gnu.org/copyleft/gpl.html).
 
 Note: I'm not the main author of this program. So, no bug request will be accepted. I made the following changes:
+
  - Made a new icon
  - Recompiled the program
  - Made appropriate installers for both 32 and 64 bit OS
